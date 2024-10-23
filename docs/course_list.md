@@ -1,3 +1,8 @@
+---
+title: Course list
+nav_order: 1
+---
+
 # Список курсов
 
 - [Финансовая эконометрика](markdown_output/financial_econometrics.md)
