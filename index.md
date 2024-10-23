@@ -5,4 +5,4 @@ layout: home
 
 Это домашняя страница
 
-![Список курсов](docs/courses)
+![Список курсов](docs/course_list.md)
