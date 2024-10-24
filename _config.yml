@@ -1,11 +1,11 @@
 title: VegaWiki
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Wiki for Vega Courses
 theme: just-the-docs
 
 url: https://vegawiki.github.io
 
-# aux_links:
-#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links:
+  GitHub Repository: https://github.com/vegawiki/vegawiki.github.io
 
 defaults:
   - scope:
