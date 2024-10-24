@@ -1,5 +1,5 @@
 ---
-title: Course list
+title: Список курсов
 nav_order: 1
 ---
 
