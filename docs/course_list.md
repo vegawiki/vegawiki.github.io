@@ -1,4 +1,9 @@
-# Course List
+---
+title: Список курсов
+nav_order: 1
+---
+
+# Список курсов
 
 - [Финансовая эконометрика]({% link ./courses/financial_econometrics.md %})
 - [Теория игр]({% link ./courses/game_theory.md %})
