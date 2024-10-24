@@ -36,3 +36,9 @@ nav_order: 2
 
 
 - **[Вязкостные решения]({% link docs/courses/viscosity_solutions.md %})**: 
+
+
+## Смотреть также:
+
+- **[Функциональный анализ]({% link docs/courses/functional_analysis.md %})**: Обобщенные функции (но в курсе УрЧП дается независимое описание)
+
