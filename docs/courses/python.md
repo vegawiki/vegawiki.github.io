@@ -6,8 +6,6 @@ nav_order: 2
 # Python
 
 
-{:toc}
-
 ## Описание 
 Основы программирования в Python.
 Пакеты: numpy, pandas, matplotlib
