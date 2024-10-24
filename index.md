@@ -5,4 +5,5 @@ layout: home
 
 Это домашняя страница
 
-![Список курсов]({% link ./docs/course_list.md %})
+[Список курсов]({% link docs/course_list.md %})
+
