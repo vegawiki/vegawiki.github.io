@@ -17,7 +17,7 @@ nav_order: 2
 
 ## Предварительные требования:
 
-- **[Теория случайных процессов]({% link ./stochastic_processes.md %})**: Расчет AMM
+- **[Теория случайных процессов]({% link docs/courses/stochastic_processes.md %})**: Расчет AMM
 
 
 

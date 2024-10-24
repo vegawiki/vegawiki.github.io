@@ -18,15 +18,15 @@ nav_order: 2
 
 ## Предварительные требования:
 
-- **[Математическая статистика]({% link ./statistics.md %})**: 
+- **[Математическая статистика]({% link docs/courses/statistics.md %})**: 
 
-- **[Теория вероятностей]({% link ./probability.md %})**: 
+- **[Теория вероятностей]({% link docs/courses/probability.md %})**: 
 
-- **[Программирование на С/С++ (ЭВМ)]({% link ./programming.md %})**: 
+- **[Программирование на С/С++ (ЭВМ)]({% link docs/courses/programming.md %})**: 
 
-- **[Математический анализ - 2]({% link ./calculus_ii.md %})**: 
+- **[Математический анализ - 2]({% link docs/courses/calculus_ii.md %})**: 
 
-- **[Линейная алгебра]({% link ./linear_algebra.md %})**: 
+- **[Линейная алгебра]({% link docs/courses/linear_algebra.md %})**: 
 
 
 ## Используется в:
