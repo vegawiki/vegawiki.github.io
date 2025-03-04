@@ -173,4 +173,5 @@ nav_order: 2
 
 ## Смотреть также:
 
-[Теория вероятностей --- Шабанов Д.А. (Teach-in.ru)](https://teach-in.ru/course/probability-theory-shabanov)
+1. [Теория вероятностей --- Лекции --- Шабанов Д.А. (teach-in.ru)](https://teach-in.ru/course/probability-theory-shabanov)
+2. [Теория вероятностей --- Семинары --- Шкляев А.В. (teach-in.ru)](https://teach-in.ru/course/probability-theory-seminars-shklyaev)
