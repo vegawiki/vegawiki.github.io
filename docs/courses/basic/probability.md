@@ -150,7 +150,7 @@ nav_order: 2
 - **[Введение в машинное обучение]({% link docs/courses/fundamental/machine_learning.md %})**: Байесовские методы, гаусовские процессы, вероятностный взгляд на многие задачи
 
 
-- **[Методы Монте-Карло]({% link docs/courses/industrial/monte_carlo.md %})**: 
+- **[Методы Монте-Карло]({% link docs/courses/industrial/monte_carlo.md %})**: эти методы используют случайные выборки для приближенного решения задач
 
 ## Список литературы 
 
