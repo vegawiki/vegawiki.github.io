@@ -133,9 +133,6 @@ nav_order: 2
 - **[Линейная алгебра]({% link docs/courses/basic/linear_algebra.md %})**: Скалярное произведение, действия с матрицами
 
 
-- **[Дифференциальные уравнения]({% link docs/courses/basic/ode.md %})**: 
-
-
 ## Используется в:
 
 - **[Математическая статистика]({% link docs/courses/fundamental/statistics.md %})**: Теория вероятностей -- язык статистики
