@@ -1,6 +1,7 @@
 ---
 title: Вязкостные решения
 nav_order: 2
+parent: academic
 ---
 
 # Вязкостные решения

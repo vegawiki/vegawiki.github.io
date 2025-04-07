@@ -1,6 +1,7 @@
 ---
 title: Марковские процессы
 nav_order: 2
+parent: academic
 ---
 
 # Марковские процессы

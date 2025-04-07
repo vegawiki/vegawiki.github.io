@@ -1,6 +1,7 @@
 ---
 title: Игры среднего поля
 nav_order: 2
+parent: academic
 ---
 
 # Игры среднего поля
