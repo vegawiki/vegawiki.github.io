@@ -1,6 +1,7 @@
 ---
 title: Многопоточность
 nav_order: 2
+parent: industrial
 ---
 
 # Многопоточность

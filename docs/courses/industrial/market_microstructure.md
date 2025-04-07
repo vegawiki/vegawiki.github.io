@@ -1,6 +1,7 @@
 ---
 title: Микроструктура рынка
 nav_order: 2
+parent: industrial
 ---
 
 # Микроструктура рынка

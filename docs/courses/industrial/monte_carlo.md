@@ -1,6 +1,7 @@
 ---
 title: Методы Монте-Карло
 nav_order: 2
+parent: industrial
 ---
 
 # Методы Монте-Карло
