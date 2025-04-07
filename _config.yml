@@ -13,3 +13,9 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+just_the_docs:
+  - collections:
+      - docs:
+        name: Docs
+        nav_fold: true
