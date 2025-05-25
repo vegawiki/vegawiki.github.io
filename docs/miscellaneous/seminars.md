@@ -33,7 +33,7 @@ parent: Разное
 
 [Подробнее](https://www.lse.ac.uk/Mathematics/Events-and-Seminars/Joint-Risk-Stochastics-and-Financial-Mathematics-Seminar)
 
-## The Fields Institute for Research in Mathematical Sciences
+## Quantitative Finance Seminar
 
 Ежемесячный семинар, проводимый Институтом Филдса, объединяет исследователей и практиков для обсуждения актуальных задач на стыке математики, статистики и финансов. Темы докладов охватывают области страхования, микроструктуры рынка и алгоритмической торговли. Семинар проводится в гибридном формате (очно в Торонто и онлайн) каждую третью среду месяца.
 
